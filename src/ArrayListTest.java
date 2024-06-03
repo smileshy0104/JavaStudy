@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// ArrayList
 public class ArrayListTest {
     public static void main(String[] args) {
         //创建集合
